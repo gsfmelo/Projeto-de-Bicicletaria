@@ -5,9 +5,6 @@ O objetivo do projeto é ser uma bicicletaria é que faz cadastro de peças de b
 
 O projeto é executado através do PyCharm de acordo com o input desejado.
 
-![image](https://github.com/gsfmelo/questao4/assets/133133216/86353329-1930-4ad0-88c1-fe88fbe08d90)
-
-![image](https://github.com/gsfmelo/questao4/assets/133133216/44c27d2e-2444-4355-b6ca-546e3f0cd80e)
-
-![image](https://github.com/gsfmelo/questao4/assets/133133216/43af04f9-3958-4d37-9525-a835aa64fc1f)
-
+![Captura de tela 2023-10-15 172404](https://github.com/gsfmelo/Projeto-de-Bicicletaria/assets/133133216/f5c16365-4650-4ce6-a4c8-d4a71e0be013)
+![Captura de tela 2023-10-15 172342](https://github.com/gsfmelo/Projeto-de-Bicicletaria/assets/133133216/9a275377-e371-4bb1-9ae6-34b44d71941a)
+![Captura de tela 2023-10-15 172428](https://github.com/gsfmelo/Projeto-de-Bicicletaria/assets/133133216/5b9a7221-6ee7-4dda-aa97-285e450c4f7a)
